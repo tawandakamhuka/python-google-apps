@@ -1,4 +1,4 @@
-# Google Play Store Apps EDA w/ Python
+# Google Play Store Apps EDA with Python
 
 This notebook contains data exploration of the google play store dataset using python. 
 
